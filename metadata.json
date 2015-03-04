@@ -1,0 +1,17 @@
+{
+  "source_code": "",
+  "project_page": "",
+  "bug_tracker": "",
+  "operatingsystem_support": [
+    {
+      "operatingsystem": "Linux",
+      "operatingsystem_types": ['64', '32'],
+      "operatingsystemrelease": ["3.17"]
+    },
+    {
+      "operatingsystem": "Windows",
+      "operatingsystem_types": ['64'],
+      "operatingsystemrelease": ['95', 'XP', '7']
+    }
+  ]
+}

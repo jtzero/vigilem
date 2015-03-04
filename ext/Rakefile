@@ -1,0 +1,7 @@
+require 'vigilem/assembly'
+
+task :assemble do
+  Vigilem::Assembly.install_handler
+end
+
+task default: :assemble
