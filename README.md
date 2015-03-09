@@ -18,10 +18,10 @@
    - mapping/charset issues on evdev
    
 ## tested on
-  ruby 2.0.0 [x64-mingw32] mri
-  Linux kernels 3.15, 3.2.0
-  ruby 2.0.0 x64 Linux mri
-  ruby 2.0.0 x32 Linux mri
+   - ruby 2.0.0 [x64-mingw32] mri
+   - Linux kernels 3.15, 3.2.0
+   - ruby 2.0.0 x64 Linux mri
+   - ruby 2.0.0 x32 Linux mri
   
 ## Roadmap
  + 1.0.0:
