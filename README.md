@@ -1,5 +1,3 @@
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jtzero/vigilem/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
 # Vigilem
 ============
 # Description
