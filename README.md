@@ -1,6 +1,4 @@
 # Vigilem
-============
-# Description
   cross platform device (currently just keyboard) DOM watcher
   
 ## installation
