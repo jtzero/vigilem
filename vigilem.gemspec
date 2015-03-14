@@ -2,17 +2,18 @@
 require './lib/vigilem/version'
 
 Gem::Specification.new do |s|
-  s.name          = 'vigilem'
-  s.version       = Vigilem::VERSION
-  s.authors       = ['jtzero511']
-  s.email         = ['jtzero511@gmail.com']
-  s.platform      = Gem::Platform::RUBY
-  s.summary       = 'device watcher that converts system calls to DOM'
-  s.description   = 'device watcher that converts system calls to DOM'
-  s.homepage      = 'http://rubygems.org/gems/vigilem'
-  s.license       = 'MIT'
+  s.name                      = 'vigilem'
+  s.version                   = Vigilem::VERSION
+  s.required_rubygems_version = '> 2.0.14' if spec.respond_to? :required_rubygems_version=
+  s.authors                   = ['jtzero511']
+  s.email                     = ['jtzero511@gmail.com']
+  s.platform                  = Gem::Platform::RUBY
+  s.summary                   = 'device watcher that converts system calls to DOM'
+  s.description               = 'device watcher that converts system calls to DOM'
+  s.homepage                  = 'http://rubygems.org/gems/vigilem'
+  s.license                   = 'MIT'
   
-  s.extensions    = ['ext/Rakefile']
+  s.extensions                = ['ext/Rakefile']
   
   s.add_dependency 'vigilem-assembly'
   
