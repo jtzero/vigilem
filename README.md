@@ -2,8 +2,9 @@
   cross platform device (currently just keyboard) DOM watcher
   
 ## installation
-    gem install vigilem
-    evdev/linux will ask for sudo/rvmsudo password
+    $gem install vigilem
+    
+    (evdev/linux will ask for sudo/rvmsudo password)
     
 ## examples
 ```ruby
