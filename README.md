@@ -17,6 +17,7 @@
    - doesn't work on Mac or Bsd
    - evdev load time it awful
    - mapping/charset issues on evdev
+   - no write ability only read
    
 ## tested on
    - ruby 2.0.0 [x64-mingw32] mri
