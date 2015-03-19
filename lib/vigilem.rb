@@ -1,3 +1,3 @@
-require 'vigilem-assembly'
+require 'vigilem/assembly'
 
 
