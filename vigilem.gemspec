@@ -8,8 +8,8 @@ Gem::Specification.new do |s|
   s.authors                   = ['jtzero511']
   s.email                     = ['jtzero511@gmail.com']
   s.platform                  = Gem::Platform::RUBY
-  s.summary                   = 'device watcher that converts system calls to DOM'
-  s.description               = 'device watcher that converts system calls to DOM'
+  s.summary                   = 'A cross platform device (currently just keyboard) DOM watcher, that converts native events to W3C DOM events'
+  s.description               = 'A cross platform device (currently just keyboard) DOM watcher, that converts native events to W3C DOM events'
   s.homepage                  = 'http://rubygems.org/gems/vigilem'
   s.license                   = 'MIT'
   
