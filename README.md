@@ -39,3 +39,10 @@
  + looking forward
    - WindowsRT/touch events/ next gen win api
    - wayland/mir etc
+
+## Also see
+
+* [http://github.com/jtzero/vigilem-assembly](http://github.com/jtzero/vigilem-assembly)
+* [http://github.com/jtzero/vigilem-core](http://github.com/jtzero/vigilem-core)
+* [http://github.com/jtzero/vigilem-evdev](http://github.com/jtzero/vigilem-evdev)
+* [http://github.com/jtzero/vigilem-win32_api](http://github.com/jtzero/vigilem-win32_api)
