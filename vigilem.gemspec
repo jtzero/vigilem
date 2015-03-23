@@ -4,7 +4,7 @@ require './lib/vigilem/version'
 Gem::Specification.new do |s|
   s.name                      = 'vigilem'
   s.version                   = Vigilem::VERSION
-  s.required_rubygems_version = '> 2.0.14' if spec.respond_to? :required_rubygems_version=
+  s.required_rubygems_version = '> 2.0.14' if s.respond_to? :required_rubygems_version=
   s.authors                   = ['jtzero511']
   s.email                     = ['jtzero511@gmail.com']
   s.platform                  = Gem::Platform::RUBY
