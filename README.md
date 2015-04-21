@@ -1,5 +1,9 @@
 # Vigilem
   cross platform device (currently just keyboard) DOM watcher
+
+## Description
+  Vigilem is a meta-gem, which depends on vigilem-assembly (which in turn depends on vigilem-win32_api-stat, vigilem-evdev-stat)
+  Vigilem installs, depending on the platform, vigilem-win32_api or vigilem-evdev.
   
 ## installation
     $gem install vigilem
