@@ -11,8 +11,9 @@
     (evdev/linux will ask for sudo/rvmsudo password)
     
 ## examples
+```sudo```
 ```ruby
-  require 'vigilem/keboard'
+  require 'vigilem/keyboard'
   k = Vigilem::Keyboard.new
   k.read_one
 ```
