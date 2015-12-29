@@ -12,7 +12,7 @@
     
 ## examples
 ```ruby
-  #with sudo unless OS.win?
+  #with sudo
   require 'vigilem/keyboard'
   k = Vigilem::Keyboard.new
   k.read_one
@@ -24,9 +24,11 @@
    - mapping/charset issues on evdev
    - no write ability only read
    
+## rbenv, rvm
+   - rvm comes with sudo
+   - for rbenv install https://github.com/dcarley/rbenv-sudo
+   
 ## tested on
-##### all with rvm
-##### not tested with rbenv
    - ruby 2.0.0 [x64-mingw32] mri
    - Linux kernels 3.15, 3.2.0
    - ruby 2.0.0 x64 Linux mri
