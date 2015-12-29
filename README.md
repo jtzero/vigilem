@@ -12,7 +12,7 @@
     
 ## examples
 ```ruby
-  #with sudo
+  #with sudo unless OS.win?
   require 'vigilem/keyboard'
   k = Vigilem::Keyboard.new
   k.read_one
